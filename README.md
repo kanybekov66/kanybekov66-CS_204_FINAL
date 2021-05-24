@@ -8,3 +8,7 @@ run Application >
 
 open browser > go to >
   localhost:8080
+  
+Figma Link
+https://www.figma.com/file/6DNQJbpIAv7KQbF47V4FNR/JavaSpringFinalProject
+
